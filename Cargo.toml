@@ -1,0 +1,13 @@
+[package]
+name = "parse"
+version = "0.1.0"
+authors = ["Murilo Cadanus da Costa <murilocadanus@gmail.com>"]
+
+[dependencies.i9]
+
+path = "../i9"
+
+[dependencies]
+log = "0.3"
+env_logger = "0.3"
+time = "0.1"
